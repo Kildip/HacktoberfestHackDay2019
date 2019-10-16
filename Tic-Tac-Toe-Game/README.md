@@ -9,6 +9,7 @@ create Tic-Tac-Toe game. this game is very common among school student and child
 -   [ ] User can play against computer.
 -   [ ] User can choose either X or O.
 -   [ ] User can set their name.
+-   [ ] User can set their city.
 
 ## Bonus features
 
@@ -22,4 +23,4 @@ N/A
 
 - [Tic-Tac-Toe-JS](https://github.com/vasanthk/tic-tac-toe-js)
 - [Tic-Tac-Toe-Python](https://gist.github.com/eaorak/3966315)
-- 
+ - [Tic-Tac-Toe-ionic](https://gist.github.com/eaorak/3966315)
